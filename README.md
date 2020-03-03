@@ -1,6 +1,10 @@
 logkeys - a GNU/Linux keylogger
 ===============================
 
+
+Edited by blaz
+
+
 logkeys is a linux keylogger.  It is no more advanced than other available linux
 keyloggers, notably lkl and uberkey, but is a bit newer, more up to date, it
 doesn't unreliably repeat keys and it shouldn't crash your X. All in all, it
